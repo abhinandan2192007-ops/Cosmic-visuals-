@@ -1,4 +1,9 @@
-# Cosmic Visuals
+src/
+ ├── components/
+ ├── pages/
+ ├── utils/
+ ├── assets/
+ └── services/# Cosmic Visuals
 
 An interactive 3D web visualization platform built using TypeScript and Vite.
 
